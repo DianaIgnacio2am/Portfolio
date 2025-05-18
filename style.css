@@ -58,7 +58,7 @@ nav a:hover {
 main {
   flex: 1 1 auto;
   overflow-y: auto; /* Scroll solo en contenido */
-  padding: 10px 30px;
+  padding: 8px 1px;
   scroll-behavior: smooth;
 }
 
@@ -67,12 +67,12 @@ main {
 /* Introducción */
 .intro {
   text-align: center;
-  padding: 10px 20px;
+  padding: 1px 2px;
 }
 
 .perfil {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
   border-radius: 50%;
   border: 3px solid #0ff;
   margin-bottom: 15px;
